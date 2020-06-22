@@ -15,6 +15,7 @@ namespace ProjetScrum
             Console.WriteLine("1) Nouvelle personne");
             Console.WriteLine("2) supprimer personne");
             Console.WriteLine("3) Sauver et Quitter");
+            Console.WriteLine("4) RECOMMANCER");
             Console.Write("\r\nChoisir un option : ");
             Console.ReadKey();
 
