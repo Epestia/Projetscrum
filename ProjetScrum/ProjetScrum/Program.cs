@@ -10,7 +10,7 @@ namespace ProjetScrum
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello");
+            Console.WriteLine("Hello Felicien");
             Console.ReadKey();
         }
     }
