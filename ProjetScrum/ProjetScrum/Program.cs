@@ -37,7 +37,7 @@ namespace ProjetScrum1
             Console.WriteLine("\r\nNote sur 10 : ");
             Console.Write("\r\nTapper votre Note sur 10 : ");
             Console.ReadLine();
-            int note = note.ToString(Console.ReadLine()); 
+            int note = note.ToString(Console.ReadLine());  
 
             Console.WriteLine("\r\nCritique du film :");
             Console.Write("\r\nTapper votre Critique ");
