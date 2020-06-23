@@ -11,6 +11,7 @@ namespace ProjetScrum2
         static void Main(string[] args)
         {
             Console.Write("\r\nEncodage films : ");
+            Console.ReadKey();
         }
     }
 }
