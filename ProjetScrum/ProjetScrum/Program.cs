@@ -13,6 +13,7 @@ namespace ProjetScrum1
             Console.Clear();
             Console.WriteLine("Choisir un option:");
             Console.WriteLine("1) Nouvelle personne");
+            Console.ReadLine("Nouvelle paersone");
             Console.WriteLine("2) supprimer personne");
             Console.Write("\r\nChoisir un option : ");
             Console.ReadKey();
